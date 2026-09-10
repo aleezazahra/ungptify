@@ -77,8 +77,6 @@ chmod +x install.sh
 cd .. && rm -rf codex-skills
 ```
 
-*(Create the `install.sh` script with the content provided below.)*
-
 ---
 
 ### Method 4: Using `npx` (Community Package)
