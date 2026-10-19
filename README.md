@@ -1,4 +1,4 @@
-# ungptify
+<img width="3780" height="1890" alt="image" src="https://github.com/user-attachments/assets/5c4ada0e-9c21-4e94-916c-901d8481849d" />
 
 A curated set of skills or prompts to make em useless and ugly looking vibe coded apps into something meaningful and secure
 
